@@ -2,6 +2,7 @@
   "recommendations": [
     "EditorConfig.EditorConfig",
     "KnisterPeter.vscode-commitizen",
+    "redhat.java",
     "scala-lang.scala",
     "scalameta.metals"
   ]
